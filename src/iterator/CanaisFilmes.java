@@ -1,7 +1,5 @@
 package iterator;
 
-import java.util.ArrayList;
-
 public class CanaisFilmes implements AgregadorDeCanais {
 	
 	protected Canal[] canais;
