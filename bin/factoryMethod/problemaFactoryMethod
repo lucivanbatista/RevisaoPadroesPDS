@@ -1,0 +1,20 @@
+Problema
+Suponha que você deve trabalhar em um projeto computacional com um conjunto de carros, cada um de uma determinada fábrica.
+Para exemplificar suponha os quatro seguintes modelos/fabricantes:
+
+* Palio – Fiat
+* Gol – Volkswagen
+* Celta – Chevrolet
+* Fiesta – Ford
+
+Será necessário manipular este conjunto de carros em diversas operações, como poderíamos modelar este problema?
+
+
+Solução:
+1. Criar Interface Carro
+2. Criar os models dos carros
+3. Criar Interface da Fabrica de Carros
+4. Criar os models das fabricas de carros
+5. Caso eu possua um novo carro?
+	Ex.: Siena - Fiat
+	Colocar um novo if na fabrica da fiat
