@@ -1,0 +1,9 @@
+Imagine que você trabalha em uma empresa de Tv a Cabo.
+Você recebeu a tarefa de mostrar a lista de canais que a empresa oferece.
+Ao procurar os desenvolvedores dos canais você descobre que existe uma separação entre
+os desenvolvedores que cuidam dos canais de esportes e os que cuidam dos canais de filmes.
+O problema começa quando você percebe que, apesar de ambos utilizarem uma lista de canais,
+os desenvolvedores dos canais de filmes utilizaram Matriz para representar a lista de canais e os desenvolvedores dos canais de esportes utilizaram ArrayList.
+
+Você não quer padronizar as listas pois todo o resto do código dos sistema que cada equipe fez utiliza sua própria implementação (ArrayList ou Matriz).
+Como construir o programa que vai exibir o nome dos canais?

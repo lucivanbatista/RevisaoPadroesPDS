@@ -1,0 +1,21 @@
+Imagine que você está desenvolvendo um sistema para um bar especializado em coquetéis,
+onde existem vários tipos de coquetéis que devem ser cadastrados para controlar a venda.
+Os coquetéis são feitos da combinação de uma bebida base e vários outros adicionais que compõe a bebida. 
+Por exemplo:
+
+Conjunto de bebidas:
+
+Vodka
+Tequila
+
+Conjunto de adicionais:
+
+Limão
+Sal
+Gelo
+Açúcar
+
+Então, como possíveis coquetéis temos:
+
+Vodka + Gelo + Açúcar
+Tequila + Limão + Sal
