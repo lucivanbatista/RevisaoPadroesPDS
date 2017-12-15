@@ -9,17 +9,17 @@ public class MainIterator {
 	        System.out.println(it.currentItem().nome);
 	    }
 	    
-	    AgregadorDeCanais canaisDeEsportesI = new CanaisEsporte2();
-	    System.out.println("\nCanais de Esporte Inverso:");
-	    for (IteradorInterface it = canaisDeEsportesI.criarIterator(); !it.isDone(); it.next()) {
-	        System.out.println(it.currentItem().nome);
-	    }
-	 
-	    AgregadorDeCanais canaisDeFilmes = new CanaisFilmes();
-	    System.out.println("\nCanais de Filmes:");
-	    for (IteradorInterface it = canaisDeFilmes.criarIterator(); !it.isDone(); it.next()) {
-	        System.out.println(it.currentItem().nome);
-	    }
+//	    AgregadorDeCanais canaisDeEsportesI = new CanaisEsporte2();
+//	    System.out.println("\nCanais de Esporte Inverso:");
+//	    for (IteradorInterface it = canaisDeEsportesI.criarIterator(); !it.isDone(); it.next()) {
+//	        System.out.println(it.currentItem().nome);
+//	    }
+//	 
+//	    AgregadorDeCanais canaisDeFilmes = new CanaisFilmes();
+//	    System.out.println("\nCanais de Filmes:");
+//	    for (IteradorInterface it = canaisDeFilmes.criarIterator(); !it.isDone(); it.next()) {
+//	        System.out.println(it.currentItem().nome);
+//	    }
 	}
 
 }

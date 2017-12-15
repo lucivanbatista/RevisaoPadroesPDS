@@ -1,6 +1,6 @@
 package factoryMethodAnswer;
 
-public class Shape {
+public class Shape implements ShapeInterface{
 	public String nome;
 	public int lados;
 

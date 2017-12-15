@@ -6,5 +6,4 @@ public class Siena implements Carro {
 	public void exibirInfo() {
 		System.out.println("Modelo: Siena\n Fabrica: Fiat");
 	}
-
 }

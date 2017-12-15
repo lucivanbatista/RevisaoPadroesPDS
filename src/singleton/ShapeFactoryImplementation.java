@@ -1,12 +1,11 @@
 package singleton;
 
 public class ShapeFactoryImplementation implements ShapeFactory {
-	public static ShapeFactoryImplementation instanciaUnica;
+	private static ShapeFactoryImplementation instanciaUnica;
 	protected int totalShapeQuadrado;
 	protected int totalShapeCirculo;
 	
-	protected ShapeFactoryImplementation() {
-		
+	private ShapeFactoryImplementation() {
 	}
 	
 	public static ShapeFactoryImplementation getInstanciaUnica(){
